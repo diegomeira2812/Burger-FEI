@@ -24,7 +24,7 @@ Os clientes podem obter um extrato detalhado de seus pedidos existentes, incluin
 
 ## Utilização
 
-1. Execute o script Python `burguer_fei.py`.
+1. Execute o script Python `burguer-FEI.py`.
 2. Siga as instruções do menu para realizar as operações desejadas.
 
 ## Pré-requisitos
